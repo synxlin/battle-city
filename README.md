@@ -96,7 +96,7 @@ Start up GUI 启动界面
 游戏start
 up启动界面有四个按钮：Local、Create、Enter、Exit，分别表示功能：进入单机双人游戏模式、创建网络联机双人游戏模式的房间、进入网络联机双人游戏模式的房间、退出。
 
-![start up UI](fig/startupUI.png)
+![start up UI](img/startupUI.png)
 
 如图所示，启动界面使用BoxLayout垂直分布格局。
 
